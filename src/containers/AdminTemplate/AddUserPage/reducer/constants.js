@@ -1,0 +1,5 @@
+const ADD_USER_REQUEST = "@addUserReducer/ADD_USER_REQUEST";
+const ADD_USER_SUCCESS = "@addUserReducer/ADD_USER_SUCCESS";
+const ADD_USER_FAILED = "@addUserReducer/ADD_USER_FAILED";
+
+export { ADD_USER_FAILED, ADD_USER_REQUEST, ADD_USER_SUCCESS };
